@@ -1,0 +1,12 @@
+# Nutrition Prediction Project Dependencies
+
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+joblib
+openpyxl
+jupyter
